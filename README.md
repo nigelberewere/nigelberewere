@@ -58,7 +58,7 @@ I am a **Full-Stack Developer** based in **Zimbabwe**. I build reliable web and 
 
 * 📧 **Email:** [nigelberewere@gmail.com](mailto:nigelberewere@gmail.com)
 * 💼 **LinkedIn:** [linkedin.com/in/nigelberewere](https://www.linkedin.com/in/nigelberewere/)
-* 🐦 **X (Twitter):** [@baby_inertia](https://x.comlord_inaetia)
+* 🐦 **X (Twitter):** [@baby_inertia](https://x.com/lord_inaetia)
 * 📸 **Instagram:** [@lord_inaetia](https://www.instagram.com/lord_inaetia/)
 
 ---
