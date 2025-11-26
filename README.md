@@ -38,7 +38,7 @@ I am a **Full-Stack Developer** based in **Zimbabwe**. I build reliable web and 
 | :--- | :--- | :--- |
 | **[School Portal](https://jeopardyportal.web.app/)** | A comprehensive management system for student data, grades, and attendance with RBAC for teachers and parents. | Java, Spring Boot, MySQL |
 | **[Intern Connect](https://planning-with-ai-d0c11.web.app/)** | A cross-platform mobile app matching student interns to relevant employer opportunities. | Flutter, Dart, Firebase |
-| **[Numbers App](https://github.com/nigelberewere/Numbers-App)** | A minimalist personal finance and budget-tracking mobile application with data visualization. | Flutter, Dart |
+| **[Numbers App](https://numbersapk.web.app)** | A minimalist personal finance and budget-tracking mobile application with data visualization. | Flutter, Dart |
 | **[Project & Staff Manager](https://customcraftapp.web.app/)** | An internal operations tool for managing company projects, staff assignments, and timelines. | Java, JS, Firebase |
 
 ---
