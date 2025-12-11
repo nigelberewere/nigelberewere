@@ -48,7 +48,7 @@ I am a **Full-Stack Developer** based in **Zimbabwe**. I build reliable web and 
 <div align="center">
   <a href="https://github.com/nigelberewere">
   <img height="180em" src="https://github-readme-three-rho.vercel.app/api?username=nigelberewere&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nigelberewere&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-three-rho.vercel.app/api/top-langs/?username=nigelberewere&layout=compact&theme=tokyonight&hide_border=true"/>
   </a>
 </div>
 
