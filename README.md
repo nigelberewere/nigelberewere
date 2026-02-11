@@ -62,4 +62,4 @@ I am a **Full-Stack Developer** based in **Zimbabwe**. I build reliable web and 
 * 📸 **Instagram:** [@lord_inaetia](https://www.instagram.com/lord_inaetia/)
 
 ---
-<p align="right"><i>Last updated: November 2025</i></p>
+<p align="right"><i>Last updated: February 2026</i></p>
