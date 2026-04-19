@@ -100,9 +100,9 @@ Tools/DevOps
 🐍 Contribution Activity
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://www.google.com/search?q=https://raw.githubusercontent.com/nigelberewere/nigelberewere/output/github-contribution-grid-snake-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://www.google.com/search?q=https://raw.githubusercontent.com/nigelberewere/nigelberewere/output/github-contribution-grid-snake.svg">
-<img alt="github contribution grid snake animation" src="https://www.google.com/search?q=https://raw.githubusercontent.com/nigelberewere/nigelberewere/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nigelberewere/nigelberewere/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nigelberewere/nigelberewere/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nigelberewere/nigelberewere/output/github-contribution-grid-snake.svg">
 </picture>
 
 📬 Let's Build Something
