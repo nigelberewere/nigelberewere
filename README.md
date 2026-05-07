@@ -70,8 +70,8 @@ A mission-critical operations system for contractors and SMEs.
 ## 📊 Performance Metrics
 
 <div align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=nigelberewere&show_icons=true&theme=tokyonight&hide_border=true" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nigelberewere&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="48%" src="https://github-readme-three-rho.vercel.app/api?username=nigelberewere&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="48%" src="https://github-readme-three-rho.vercel.app/api/top-langs/?username=nigelberewere&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
